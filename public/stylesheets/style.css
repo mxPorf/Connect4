@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin:0; padding: 0;
+}
+
+section {
+    width: 640px; margin: 1em auto 0 auto;
+}
+
+/*canvas {
+  
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100px;
+    
+}*/
+
+html{
+  width:  100%;
+  height: 100%;
+  margin: 0px;
+}
+body {
+		background-color: rgba(0,0,128, .01);
+        color: #000080;
+        font-family: sans-serif;
+        font-size: medium;
+        margin: 20px;
+         width:  100%;
+        height: 100%;
+        margin: 0px;
+      }
+
+      hr {
+        border: 0;
+        color: #B0C4DE;
+        background-color: #B0C4DE;
+        height: 1px;
+      }
+      h1 {
+        color: #FFFFFF;
+		background-image:url(/images/food2.png);
+
+      }
+      h3 {
+        color: #000000;
+        
+
+      }
+
+      table {
+        border-collapse: collapse;
+        border: 1px solid #000000;
+        padding: 0px;
+        margin-bottom: 10px;
+        color: #000000;
+        background: #E6E6FA;
+      }
+
+      td {
+        border: 1px solid #000000;
+        padding: 10px;
+        text-align: center;
+        
+      }
+
+      th {
+        border: 1px solid #000000;
+        padding: 10px;
+        color: #008080;
+        background: #B0E0E6;
+      }
+
+      li {
+        color: #AAAAAA;
+      }
+
+      span {
+        color: #094141;
+      }
+
+      footer {
+        font-size: 70%;
+        color: #FFFFFF;
+        text-align: center;
+        		background-image:url(/images/food2.png);
+
+      }
+form{
+	color: #000000;
+}
+
+a {
+  color: #FFFFFF;
+}
